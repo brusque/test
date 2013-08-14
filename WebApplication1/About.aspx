@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About a lot .. and even more ... and more ..gdfsgfds ..ggggg .. blah blah
+        About a lot .. and even more ... and more ..gdfsgfds ..ggggg .. blah blah ... this is the real deal!
     </h2>
     <p>
         Put content here.
